@@ -7,7 +7,7 @@
 
 # My HackerRank Solutions
 
-###This repository contains my solutions
+### This repository contains my solutions
 
 
-###All problems are solved in Python.
+### All problems are solved in Python.
