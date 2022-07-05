@@ -9,4 +9,4 @@ This repo consists the solution of HackerRank Python Domain challenges. The codi
 
 Challenges can be found here https://www.hackerrank.com/domains/python
 
-### My HackerRank profile: <a href="https://www.hackerrank.com/shubhamsigdar">Link</a>
+
