@@ -4,9 +4,8 @@
 <a href = 'https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python'><img src="https://i.imgur.com/YQnaKXf.png" width="450" height="auto"/></a>
  </div>
 
-This repo consists the solution of hackerrank problem solving solutions in python
-My solutions of Hackerrank Python Domain challenges. The codes may give a head start if you are stuck somewhere!
-If you have better code (I like readable code rather than short liner), send pull request.
+This repo consists the solution of HackerRank Python Domain challenges. The coding solutions provided within this repo are entirely provided by me, <a href="https://www.hackerrank.com/shubhamsigdar">Shubham Sigdar.</a>
+
 
 Challenges can be found here https://www.hackerrank.com/domains/python
 
