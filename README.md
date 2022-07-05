@@ -6,4 +6,4 @@
 
 
 
- This repository contains my solutions and All problems are solved in Python.
+ ### This repo consists the solution of hackerrank problem solving solutions in python
